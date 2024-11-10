@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+### Name: Anu Varshini M B
+### Register Number: 212223240010
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
